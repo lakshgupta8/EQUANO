@@ -29,8 +29,8 @@
 
 ## 📸 Preview
 
-![EQUANO Graphing Calculator Screenshot](./preview.png)  
-*(Replace with actual screenshot)*
+![EQUANO Graphing Calculator Screenshot](./ss.png)  
+![EQUANO Graphing Calculator Screenshot](./ss2.png)  
 
 ---
 
