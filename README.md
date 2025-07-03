@@ -39,10 +39,10 @@
 ### Prerequisites
 
 - Node.js >= 16
-- npm or yarn
+- pnpm
 
 ### Installation
-git clone https://github.com/yourusername/equano-graphing-calculator.git
+git clone https://github.com/lakshgupta8/EQUANO.git
 cd equano-graphing-calculator
 npm install
 
