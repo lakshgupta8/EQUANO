@@ -42,9 +42,9 @@
 - pnpm
 
 ### Installation
-git clone https://github.com/lakshgupta8/EQUANO.git
-cd equano-graphing-calculator
-npm install
+- git clone https://github.com/lakshgupta8/EQUANO.git
+- cd equano-graphing-calculator
+- npm install
 
 ### Run Locally
 npm start
