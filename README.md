@@ -2,7 +2,7 @@
 
 **EQUANO** is a modern, interactive graphing calculator built using React and JavaScript. Designed for students, engineers, and math enthusiasts, it supports plotting Cartesian equations with pan and zoom, multiple expression inputs, variable support, and smooth canvas rendering.
 
-> 🚀 Built with AI using [V0 by Vercel](https://v0.dev), powered by OpenAI Codex and GPT models.
+> 🚀 Built with AI using [V0 by Vercel](https://v0.dev), powered by OpenAI GPT 4o and Anthropic Claude 3.5 Sonnet.
 
 ---
 
